@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|d:\\vlad\\ready\\project\\geometrylibrary\\geometrylibrary\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|d:\\vlad\\ready\\project\\geometrylibrary\\geometrylibrary\\shapes\\geometrycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\geometrycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7496F8E1-024F-4BEE-A753-C1DE32FEFA99}|GeometryLibrary.Tests\\GeometryLibrary.Tests.csproj|d:\\vlad\\ready\\project\\geometrylibrary\\geometrylibrary.tests\\geometrycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7496F8E1-024F-4BEE-A753-C1DE32FEFA99}|GeometryLibrary.Tests\\GeometryLibrary.Tests.csproj|solutionrelative:geometrylibrary.tests\\geometrycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|d:\\vlad\\ready\\project\\geometrylibrary\\geometrylibrary\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|d:\\vlad\\ready\\project\\geometrylibrary\\geometrylibrary\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862AD69A-A2B5-4BFF-9392-D5FBABEE4871}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeometryCalculatorTests.cs",
+              "DocumentMoniker": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary.Tests\\GeometryCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary.Tests\\GeometryCalculatorTests.cs",
+              "ToolTip": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary.Tests\\GeometryCalculatorTests.cs",
+              "RelativeToolTip": "GeometryLibrary.Tests\\GeometryCalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:19:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometryCalculator.cs",
+              "DocumentMoniker": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\GeometryCalculator.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\GeometryCalculator.cs",
+              "ToolTip": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\GeometryCalculator.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\GeometryCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:19:23.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\Triangle.cs",
+              "ToolTip": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\Triangle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:19:05.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Circle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:18:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\Shape.cs",
+              "ToolTip": "D:\\Vlad\\Ready\\Project\\GeometryLibrary\\GeometryLibrary\\Shapes\\Shape.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:18:21.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
